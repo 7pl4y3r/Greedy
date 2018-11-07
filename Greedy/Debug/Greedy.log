@@ -1,2 +1,4 @@
 ﻿  Greedy.cpp
+c:\users\alin\source\repos\greedy\greedy\third.h(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alin\source\repos\greedy\greedy\third.h(76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
   Greedy.vcxproj -> C:\Users\Alin\source\repos\Greedy\Debug\Greedy.exe

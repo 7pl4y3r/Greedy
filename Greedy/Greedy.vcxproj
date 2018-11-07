@@ -152,8 +152,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="First.h" />
+    <ClInclude Include="Fourth.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Second.h" />
+    <ClInclude Include="Third.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Greedy.cpp" />

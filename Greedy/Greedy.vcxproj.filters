@@ -24,6 +24,12 @@
     <ClInclude Include="Second.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Third.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fourth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">

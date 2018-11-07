@@ -69,7 +69,7 @@ private:
 		int l = 1;
 		a[l] = 1;
 		for (int i = 2; i <= n; i++)
-			if (v[i].d >= v[a[i]].t + v[a[i]].d)
+			if (v[i].t >= v[a[i]].t + v[a[i]].d)
 				a[++l] = i;
 
 		print(l);
